@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+*.task
+*.pkl
+.idea/
+.vscode/
+faces.json
+face_landmarker.task
+.venv/
+__pycache__/
+*.pyc".venv/" 
+"__pycache__/" 
